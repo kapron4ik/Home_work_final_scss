@@ -87,6 +87,7 @@ a {
 .top_menu ul li {
   padding: 0 9px 0 35px;
   border-left: 1px solid #000;
+  cursor: pointer;
 }
 
 .top_menu ul li:nth-child(1) {
